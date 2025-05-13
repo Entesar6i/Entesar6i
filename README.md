@@ -1,6 +1,6 @@
  ## Hi there 👋
 
- I'm Entesar!😁 A computer science student and a growing software developer, interested in AI and CyberSecurity.<br>
+ I'm Entesar, a computer science student and a growing software developer, interested in AI and CyberSecurity.<br>
  I'm a curious mind with an engineer's mindset 👀 always digging into the how and why behind things. I love exploring new technologies, solving problems, and constantly learning.
 
  Fun fact✨: I love flamingoes🦩 and cats🐈 They just make life better!
