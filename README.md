@@ -17,7 +17,9 @@
  ## I am learning 🌵:
  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
- ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+ ![C](https://img.shields.io/badge/-Language-blue?style=plastic&logo=c&logoColor=white)
+
+
 
  
  
